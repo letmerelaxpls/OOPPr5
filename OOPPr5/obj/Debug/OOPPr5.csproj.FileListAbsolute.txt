@@ -1,0 +1,8 @@
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\obj\Debug\OOPPr5.csproj.AssemblyReference.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\obj\Debug\OOPPr5.csproj.SuggestedBindingRedirects.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\obj\Debug\OOPPr5.csproj.CoreCompileInputs.cache
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\bin\Debug\OOPPr5.exe.config
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\bin\Debug\OOPPr5.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\bin\Debug\OOPPr5.pdb
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\obj\Debug\OOPPr5.exe
+C:\Users\larsu\Desktop\uchus\IT\prohacker\OOPPr5\OOPPr5\obj\Debug\OOPPr5.pdb
