@@ -31,7 +31,7 @@ namespace OOPPr5
                 {
                     semaphore.WaitOne();
                     Interlocked.Increment(ref activeThreads);
-                    ThreadPool.QueueUserWorkItem(new WaitCallback(CalculateElement), new int[] { i, j });
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(Calculate), new int[] { i, j });
                 }
             }
 
@@ -42,7 +42,7 @@ namespace OOPPr5
 
             return result;
         }
-        private void CalculateElement(object args)
+        private void Calculate(object args)
         {
             int[] indexes = (int[])args;
             int i = indexes[0];
